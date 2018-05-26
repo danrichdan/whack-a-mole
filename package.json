@@ -1,0 +1,15 @@
+{
+  "name": "whack-a-mole",
+  "version": "1.0.0",
+  "description": "whack-a-mole game",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Dan R",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.3.1"
+  }
+}
