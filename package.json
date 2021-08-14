@@ -9,7 +9,7 @@
   "author": "Dan R",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "jquery": "^3.3.1"
   }
 }
